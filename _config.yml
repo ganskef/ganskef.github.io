@@ -11,6 +11,8 @@
 # Title and description of your site
 title:        'Frank Ganske at GitHub'
 description:  'Redirect to Mo Cuishle...'
+author:       'Frank Ganske'
+author.uri:   'https://github.com/ganskef'
 
 gems:
     - jekyll-gist
